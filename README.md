@@ -31,7 +31,7 @@ print("Swapped values are:",a,b)
 ```
 ##OUTPUT
 ![output](/swap.jpeg)
-save
+
 
 
 
